@@ -19,9 +19,7 @@ In each challenge's directory, you'll find a `README.md` file with a direct link
 ## 🚀 Quick Navigation
 
 Browse the folder structure above to find challenges you're interested in. Check the `README.md` in any challenge folder for:
-1. Basic challenge information.
-2. A direct link to the **complete writeup** on my blog.
-3. Instructions on how to run the exploit.
+A direct link to the **complete writeup** on my blog.
 
 ---
 
