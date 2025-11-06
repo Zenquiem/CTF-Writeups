@@ -1,13 +1,9 @@
-
 # 👋 Hi, I'm ZenDuk!
-
 I'm a cybersecurity enthusiast focused on **binary security** and **vulnerability research**.
 
 ## 🏆 CTF & Research
 
 Here are my writeups and research projects:
-
-- [HelloPwn - A Simple Buffer Overflow](./CTF-Time/2024-HelloPwn/) - My first CTF pwn writeup!
 
 ## 🛠️ Skills
 
