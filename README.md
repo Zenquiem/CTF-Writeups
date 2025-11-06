@@ -1,5 +1,4 @@
 
-```markdown
 # 👋 Hi, I'm ZenDuk!
 
 I'm a cybersecurity enthusiast focused on **binary security** and **vulnerability research**.
