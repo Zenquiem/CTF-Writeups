@@ -1,21 +1,33 @@
-# 👋 Hi, I'm ZenDuk!
-I'm a cybersecurity enthusiast focused on **binary security** and **vulnerability research**.
+# CTF Pwn Writeups
 
-## 🏆 CTF & Research
+Hi there! 👋 I'm a cybersecurity enthusiast passionate about **binary exploitation (Pwn)**.
 
-Here are my writeups and research projects:
+This repository serves as a **code archive** for Pwn challenges I've solved in various CTF competitions. Each directory contains:
 
-## 🛠️ Skills
+*   **Original challenge binaries**
+*   **My exploit scripts (EXPs)**
 
-- **Languages:** Python, C/C++, Assembly (x86/ARM)
-- **Tools:** IDA Pro, Ghidra, GDB, Pwntools
-- **Interests:** Pwn, Reverse Engineering, Exploit Development
+## 📖 About Detailed Writeups
 
-## 📝 Blog
+I typically publish **detailed analysis, vulnerability explanations, and complete walkthroughs** on my personal blog.
 
-I also write technical articles on my personal blog: [你的博客链接]
+In each challenge's directory, you'll find a `README.md` file with a direct link to the corresponding blog post. This structure aims to:
 
-## 📫 How to reach me
+*   Keep **GitHub** as a clean **code repository** for easy reference and reproduction of exploits.
+*   Use my **blog** as a platform for **in-depth technical analysis** and thought process documentation.
 
-- Email: [你的邮箱]
-- [你的其他社交链接，比如LinkedIn]
+## 🚀 Quick Navigation
+
+Browse the folder structure above to find challenges you're interested in. Check the `README.md` in any challenge folder for:
+1. Basic challenge information.
+2. A direct link to the **complete writeup** on my blog.
+3. Instructions on how to run the exploit.
+
+---
+
+**If my work has been helpful to you, please consider giving the repo a Star ⭐!**
+
+*Personal Blog: [Your Blog Link]*
+
+---
+*[简体中文说明请点击这里](README_zh.md)*
