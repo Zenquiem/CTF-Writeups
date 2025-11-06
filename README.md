@@ -1,4 +1,4 @@
-# CTF Pwn Solutions & Exploits
+## 🏴‍☠️ CTF Pwn Solutions & Exploits
 
 Hi there! 👋 I'm a cybersecurity enthusiast who just really enjoys **binary exploitation (Pwn)**.
 
@@ -8,7 +8,7 @@ Inside each challenge directory, you'll find:
 * **The original challenge binary**
 * **My exploit script**
 
-## 📖 Where Are the Detailed Writeups?
+## 🔍 Where Are the Detailed Writeups?
 
 Exploit code alone doesn't always tell the whole story.
 
@@ -19,7 +19,7 @@ I split the code and the analysis on purpose:
 * To keep this **GitHub repo** as a clean **code archive**, making it easy to find and test exploits.
 * To use my **blog** as the platform for **in-depth analysis**, documenting the full technical details and my thought process.
 
-## 🚀 How to Find a Writeup
+## 🗺️ How to Find a Writeup
 
 It's simple:
 
