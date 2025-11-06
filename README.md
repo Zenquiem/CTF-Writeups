@@ -1,5 +1,4 @@
-# CTF-Writeups
-My collection of CTF writeups
+
 ```markdown
 # 👋 Hi, I'm ZenDuk!
 
