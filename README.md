@@ -1,31 +1,37 @@
-# CTF Pwn Writeups
+# CTF Pwn Solutions & Exploits
 
-Hi there! 👋 I'm a cybersecurity enthusiast passionate about **binary exploitation (Pwn)**.
+Hi there! 👋 I'm a cybersecurity enthusiast who just really enjoys **binary exploitation (Pwn)**.
 
-This repository serves as a **code archive** for Pwn challenges I've solved in various CTF competitions. Each directory contains:
+In this repository, I archive the **exploit scripts (EXPs)** I've written for Pwn challenges from various CTFs.
 
-*   **Original challenge binaries**
-*   **My exploit scripts (EXPs)**
+Inside each challenge directory, you'll find:
+* **The original challenge binary**
+* **My exploit script**
 
-## 📖 About Detailed Writeups
+## 📖 Where Are the Detailed Writeups?
 
-I typically publish **detailed analysis, vulnerability explanations, and complete walkthroughs** on my personal blog.
+Exploit code alone doesn't always tell the whole story.
 
-In each challenge's directory, you'll find a `README.md` file with a direct link to the corresponding blog post. This structure aims to:
+That's why I publish my **detailed analysis, vulnerability breakdowns, and complete walkthroughs** over on my personal blog.
 
-*   Keep **GitHub** as a clean **code repository** for easy reference and reproduction of exploits.
-*   Use my **blog** as a platform for **in-depth technical analysis** and thought process documentation.
+I split the code and the analysis on purpose:
 
-## 🚀 Quick Navigation
+* To keep this **GitHub repo** as a clean **code archive**, making it easy to find and test exploits.
+* To use my **blog** as the platform for **in-depth analysis**, documenting the full technical details and my thought process.
 
-Browse the folder structure above to find challenges you're interested in. Check the `README.md` in any challenge folder for:
-A direct link to the **complete writeup** on my blog.
+## 🚀 How to Find a Writeup
+
+It's simple:
+
+Just browse the folders above, click on a challenge you're interested in, and open the `README.md` file. Inside, you'll find:
+1.  Some quick info about the challenge.
+2.  A direct link to the **complete writeup** on my blog.
 
 ---
 
-**If my work has been helpful to you, please consider giving the repo a Star ⭐!**
+**If you found my code or analysis helpful, please consider giving the repo a Star ⭐!**
 
 *Personal Blog: [Your Blog Link]*
 
 ---
-*[简体中文说明请点击这里](README_zh.md)*
+*[Click here for the Chinese (简体中文) version](README_zh.md)*
