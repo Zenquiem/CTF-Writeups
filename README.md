@@ -31,7 +31,7 @@ Just browse the folders above, click on a challenge you're interested in, and op
 
 **If you found my code or analysis helpful, please consider giving the repo a Star ⭐!**
 
-*Personal Blog: [Your Blog Link]*
+*Personal Blog: [https://zenquietus.top/]*
 > **✨ 自古神仙无别法，只生欢喜不生愁。 ✨**
 
 ---
