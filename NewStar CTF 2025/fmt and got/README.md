@@ -1,1 +1,1 @@
-👉 **(https://zenquietus.top/archives/fmt-and-got)————wp**
+👉 **(https://zenquietus.top/archives/fmt-and-got)**
